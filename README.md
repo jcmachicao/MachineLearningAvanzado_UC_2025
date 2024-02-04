@@ -1,8 +1,7 @@
-# Machine Learning Avanzado
+# Repositorio del Curso de Herramientas y Tecnicas Avanzadas de Machine Learning
+## Machine Learning Avanzado
 ### Maestría en Ciencia de Datos
 ### Universidad Continental
-
-Repositorio del Curso de Herramientas y Tecnicas Avanzadas de Machine Learning
 
 *Unidad 1 Herramientas de modelamiento* <br>
   Tema 1.1	Regulación de hiperparámetros <br>
