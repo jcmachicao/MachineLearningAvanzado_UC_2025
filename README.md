@@ -1,4 +1,7 @@
-# MachineLearningAvanzado_UC_2024
+# Machine Learning Avanzado
+### Maestría en Ciencia de Datos
+### Universidad Continental
+
 Repositorio del Curso de Herramientas y Tecnicas Avanzadas de Machine Learning
 
 *Unidad 1 Herramientas de modelamiento* <br>
@@ -18,3 +21,5 @@ Repositorio del Curso de Herramientas y Tecnicas Avanzadas de Machine Learning
 	Tema 3.2	Funcionalidad del deep learning <br>
 	Tema 3.3	Inteligencia artificial para modelamiento de lenguajes <br>
 	Tema 3.4	Mecanismo de atención y LLMs <br>
+
+Actualizado: Febrero, 2024
