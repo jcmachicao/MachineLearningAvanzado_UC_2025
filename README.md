@@ -1,5 +1,4 @@
 # Repositorio del Curso de Herramientas y Tecnicas Avanzadas de Machine Learning
-## Machine Learning Avanzado
 ### Maestría en Ciencia de Datos
 ### Universidad Continental
 
