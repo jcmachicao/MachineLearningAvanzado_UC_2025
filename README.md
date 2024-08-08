@@ -20,4 +20,4 @@
 	Tema 3.3	Inteligencia artificial para modelamiento de lenguajes <br>
 	Tema 3.4	Mecanismo de atención y LLMs <br>
 
-Actualizado: Febrero, 2024
+Actualizado: Mayo, 2024
