@@ -3,13 +3,13 @@
 ### Universidad Continental
 
 ## *Unidad 1 Herramientas de modelamiento* <br>
-  Tema 1.1	Regulación de hiperparámetros <br>
-  Tema 1.2	Ingeniería de atributos <br>
+  	Tema 1.1	Regulación de hiperparámetros <br>
+  	Tema 1.2	Ingeniería de atributos <br>
 	Tema 1.3	Machine Learning Automático <br>
 	Tema 1.4	Modelamiento Complejo <br>
  
 ## *Unidad 2 Redes Neuronales* <br>
-  Tema 2.1	Qué es una red neuronal <br>
+  	Tema 2.1	Qué es una red neuronal <br>
 	Tema 2.2	Funcionamiento de una red neuronal <br>
 	Tema 2.3	Modelamiento y Entrenamiento de una red neuronal <br>
 	Tema 2.4	Evaluación de una red neuronal <br>
