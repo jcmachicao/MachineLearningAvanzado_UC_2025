@@ -15,9 +15,10 @@
 	Tema 2.4	Evaluación de una red neuronal <br>
  
 ## *Unidad 3 Deep Learning*
-  Tema 3.1	Arquitecturas emblemáticas de redes <br>
-	Tema 3.2	Funcionalidad del deep learning <br>
-	Tema 3.3	Inteligencia artificial para modelamiento de lenguajes <br>
-	Tema 3.4	Mecanismo de atención y LLMs <br>
+	Tema 3.1	Arquitecturas emblemáticas de redes <br>
+ 	Tema 3.2	Explicabilidad en Modelos de Deep Learning <br>
+	Tema 3.3	Funcionalidad del deep learning <br>
+	Tema 3.4	Inteligencia artificial para modelamiento de lenguajes <br>
+	Tema 3.5	Mecanismo de atención y LLMs <br>
 
 Actualizado: Mayo, 2024
